@@ -10,6 +10,7 @@ What is this program about?
 - Once the user marked all the blocks that contains a geese, or reveal all the blocks that don't contain a geese, the user wins the game.
 - Otherwise, the user loses the game and the program will start a new game.
 
+
 My contribution to this project:
 - I am responsible of writing the functions including: createBoard, hideBoard, cleanBoard, printBoard, mark, isGameWon, computeNeighbors, reveal.
 - The other functions are provided by the class instructor.
