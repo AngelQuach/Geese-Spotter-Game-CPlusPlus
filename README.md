@@ -13,4 +13,5 @@ What is this program about?
 
 My contribution to this project:
 - I am responsible of writing the functions including: createBoard, hideBoard, cleanBoard, printBoard, mark, isGameWon, computeNeighbors, reveal.
+- The parts that I am responsible for are in the file geesespotter.cpp
 - The other functions are provided by the class instructor.
